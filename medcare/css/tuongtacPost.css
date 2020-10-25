@@ -1,0 +1,76 @@
+body{
+  margin-bottom: 100px;
+}
+.tuongtac{
+  width: 90%;
+  margin:0px auto;
+  padding:10px;
+  
+}
+.tuongtac .left{
+    font-weight: 200;
+    font-size: 14px;
+    line-height: 20px;
+    background: #acdbc9; 
+    margin-top:5px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    float:left;
+    width: 30%;
+    color: lightblue;
+    text-align: left;
+}
+  .tuongtac .left .x{
+    font-size: 18px;
+    font-family: serif;
+    line-height: 30px;
+  }
+  .tuongtac .left .x span{
+    font-weight: 650;
+    color: black;
+  }
+  .tuongtac .left .x .text{
+     color: brown;
+  }
+  .text1{
+    padding-top:5px;
+    color: #423619;
+    line-height: 19px;
+    font-style: italic; 
+  }
+.tuongtac .right{
+  width: 70%;
+  float: right;
+}
+.cmt{
+  margin-bottom: 8px;
+} 
+.user_email{
+  margin-left: 15px;
+  color: #786365;
+  font-size: 13px;
+}
+.user_name{
+  color: purple;
+  font-size: 15px;
+  margin: 0px;
+  padding:0px;
+  font-weight: 550;
+}
+.card-body{
+  margin:5px;
+  padding: 10px;
+   font-weight: 200;
+    font-size: 14px;
+    line-height: 20px;
+    background: #ff847c; 
+    border-radius: 5px;
+
+}
+.cmt_box{
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+

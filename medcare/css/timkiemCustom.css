@@ -1,0 +1,27 @@
+.service-area{
+      margin-top: 50px;
+    }
+.single-blog .thumb {
+    overflow: hidden;
+    margin-bottom: -35px;
+}
+.service-area {
+    margin-top: 0px;
+}
+u{
+	font-family: sans-serif;
+	color: gray;
+}
+.short_details{
+	height: 250px;
+}
+.object span{
+	font-size: 18px;
+	padding: 9px;
+	background-color:gray;
+	border-radius: 18px;
+	margin: 2px;
+}
+.card-service{
+	height: 285px;
+}

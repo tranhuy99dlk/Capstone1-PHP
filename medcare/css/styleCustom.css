@@ -1,0 +1,105 @@
+.area-padding {
+    padding: 30px;
+}
+.area-padding {
+    margin-bottom: 0px;
+}
+
+.Title_Banner{
+	margin-top: 120px;
+  margin-bottom: 50px;}
+  .area-headin h3 {
+    font-size: 36px;
+    color: #33363e;
+    position: relative; }
+  .area-headin p {
+    font-size: 14px;
+    color: #797979;
+    padding-left: 40px;
+    margin-top: 5px; }
+    @media (max-width: 1199px) {
+      .area-headin p {
+        padding-left: 0; } }
+}
+
+.area-headin {
+  margin-bottom: 50px;}
+  .area-headin h3 {
+    font-size: 36px;
+    color: #33363e;
+    position: relative; }
+  .area-headin p {
+    font-size: 14px;
+    color: #797979;
+    padding-left: 40px;
+    margin-top: 5px; }
+    @media (max-width: 1199px) {
+      .area-headin p {
+        padding-left: 0; } }
+
+ .card-service {
+  padding: 40px 35px;
+  border: 0;
+  border-radius: 0;
+  background: #cd8;
+  border: 1px solid #e8edf1;
+  z-index: 22;
+  position: relative;
+  transition: all 300ms linear 0s; }
+  .card-service__icon {
+    margin-bottom: 5px;
+    height: 73px;
+    width: 73px;
+    background: #ecf0f8;
+    display: inline-block;
+    text-align: center;
+    line-height: 72px;
+    border-radius: 51px;
+    }
+    .card-service__icon i {
+      color: #43464e; }
+  .card-service__title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #33363e;
+    border-top: 1px solid #e8edf1;
+    padding-top: 15px;
+    margin-bottom: 16px; }
+  .card-service__subtitle {
+    margin-bottom: 0;
+    color: #797979;
+    margin-bottom: 20px; }
+  .card-service__link {
+    font-size: 15px;
+    font-family: "Playfair Display", serif;
+    color: #33363e;
+    letter-spacing: 1.5px;
+    position: relative; }
+    .card-service__link:after {
+      content: '';
+      position: absolute;
+      left: 0;
+      bottom: -14px;
+      height: 2px;
+      width: 40px;
+      background: #33363e; }
+    .card-service__link:hover:after {
+      width: 100%;
+      background: #0051d2;
+      transition: all 300ms linear 0s; }       
+    .card-interaction{
+        text-align:right;
+        position: absolute;
+        bottom: 10px; 
+        right: 10px;
+    }
+
+    .col-lg-8 {
+    -ms-flex: 0 0 66.666667%;
+    flex: 1 0 66.666667%;
+    max-width: 100.666667%;
+
+}
+.card{
+      height: 250px;
+    }

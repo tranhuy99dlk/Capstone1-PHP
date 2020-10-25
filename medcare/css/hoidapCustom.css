@@ -1,0 +1,33 @@
+.card{
+      height: 35px;
+  		color: #2f9395;
+
+    }
+    .card1{
+      color: #2f9395;
+
+    }
+    .card span{
+	     font-size: 19px;
+     }
+.appointment-area h3 {
+    font-size: 24px;
+    color: #33363e;
+    margin-bottom: 0px;
+    }
+    h4{
+    	color:black;
+    }
+
+.object span{
+  font-size: 15px;
+  padding: 5px;
+  background-color:gray;
+  margin-top:5px;
+  /*border-radius: 15px;*/
+}
+.object{
+  color:white;
+  margin-top:5px;
+  margin-bottom: 15px;
+}
